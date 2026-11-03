@@ -39,10 +39,9 @@ The moodboard reflects what my game was initially supposed to be. The game was s
 Here's the link of my figma [figma UI↗](https://www.figma.com/design/tstgXu5zfpl18AcXzv6c6y/Paul---Designing-with-Web---Project?node-id=9-5&t=pJkxpUcS3BvtpxCE-1)`
 
 ## Web part
-Here is a preview of the assignment. finalement c dns la video 
-![mockup-preview](images/mockup-preview.png)
-what is it: 
+Here is an explanation on how the website works
+(https://drive.google.com/file/d/1ufB_1SBLnT0bUZwtcKGUTFYmKM-TLfWU/view?usp=sharing) 
 
 ## Video
 
-[See the video on youtube↗](https://youtu.be/7-YfWs-cX3M)
+[Google Drive link↗](https://drive.google.com/file/d/1zcZHxyGiVjolHB-Gfc-P1yQJrMrgSVgJ/view?usp=sharing)

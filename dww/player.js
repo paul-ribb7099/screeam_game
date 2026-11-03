@@ -1,4 +1,4 @@
-// Based on the Player class from Thomas's "runner" demo
+// Based on the Player class from Thomas's "runner" demo game
 // (itself based on the p5 example: https://p5js.org/examples/Math-And-Physics-Forces/)
 
 class Player{
