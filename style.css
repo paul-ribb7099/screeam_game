@@ -1,0 +1,24 @@
+/* This removes the default margins of the page */
+
+* {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+/* This portion makes the parts of the screen, that the game doesn't occupy, in a specific color (in my case black).
+Moreover, it allows the game to be centered on screen */
+
+body {
+  background-color: #1a1a1a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* keeps the pixel art sharp */
+
+canvas {
+  image-rendering: pixelated;
+}
