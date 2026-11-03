@@ -1,3 +1,6 @@
+/* In all transparency, the arduino code has been completely written by Thomas.
+Nonetheless, I will provide A brief explanation of the code.
+*/
 int sum = 0;
 int moyenne = 0;
 
