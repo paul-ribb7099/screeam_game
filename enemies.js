@@ -1,18 +1,18 @@
 // Based on the Enemy class from Thomas's "runner" demo
 
 class Enemy{
-    constructor(img, w, h, y, speed){
-        this.img = img;        // the enemy picture (cactus, shrimp...)
-        this.w = w;            // width on screen
-        this.h = h;            // height on screen
-        this.x = width + w;    // starts just outside the right edge
-        this.y = y;            // height on screen (ground or air)
-        this.speed = speed;    // how many pixels it moves left each frame
+    constructor(img, w, h, y, extraSpeed){
+        this.img = img;               // the enemy picture (cactus, shrimp...)
+        this.w = w;                   // width on screen
+        this.h = h;                   // height on screen
+        this.x = width + w;           // starts just outside the right edge
+        this.y = y;                   // height on screen (ground or air)
+        this.extraSpeed = extraSpeed; // extra speed on top of the ground speed
     }
 
-    // move to the left
+    // move to the left, with the ground + any extra speed
     update(){
-        this.x = this.x - this.speed;
+        this.x = this.x - (gameSpeed + this.extraSpeed);
     }
 
     display(){

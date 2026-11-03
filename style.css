@@ -12,6 +12,7 @@ Moreover, it allows the game to be centered on screen */
 body {
   background-color: #1a1a1a;
   display: flex;
+  flex-direction: column;   /* NEW: canvas on top, button underneath */
   justify-content: center;
   align-items: center;
   height: 100vh;
