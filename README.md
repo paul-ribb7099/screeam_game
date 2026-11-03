@@ -38,8 +38,9 @@ This prototype uses an Adafruit HUZZAH32, along with a push button. It also incl
 >This file is part of the dww figma, so I cannot fully share it. Your documentation should include a link to your figma: `[figma UI↗](https://figma.com/your-design)`
 
 ## Web part
-Here is a preview of the assignment. 
+Here is a preview of the assignment. finalement c dns la video 
 ![mockup-preview](images/mockup-preview.png)
+what is it: 
 
 ## Video
 
